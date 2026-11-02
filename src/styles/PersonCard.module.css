@@ -1,0 +1,54 @@
+.person_card {
+    border: 1px solid black;
+    width: 60%;
+    height: 500px;
+    padding: 1%;
+    margin-top: 50px;
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url('https://cdn-ilcanfj.nitrocdn.com/LlrUmChCXslDNktpsCpSWimJwTalRvLT/assets/images/optimized/rev-7f832d0/brickmywalls.com/wp-content/uploads/2024/12/Aura-Brick-1009-.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.person_card_info {
+    border: 1px solid gray;
+    width: 100%;
+    height: 90%;
+    background-image: url('scroll.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.person_card_info h2 {
+    text-align: center;
+}
+
+.person_card_image {
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 40%;
+    height: auto;
+    border-radius: 10%;
+}
+
+.person_card_buttons {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.person_card_buttons button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.person_card_buttons button:hover {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+}
