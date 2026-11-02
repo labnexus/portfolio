@@ -49,7 +49,7 @@ function PersonCard(props) {
                     <h1 style={{textAlign: 'center'}}>EL ABOUDI ADNANE</h1>
                     <ul>
                         <li><p><b>Industrial Engineer</b> & <b>Information Systems</b> specialist</p></li>
-                        <li><p>Experienced in tools like <b>SAP ECC</b> & <b>S4/HANA</b> to optimise production and the flow of ressources</p></li>
+                        <li><p><b>Six-Sigma</b>, <b>Supply Chain Management</b> & <b>Operations Research</b> specialist</p></li>
                     </ul>
                     <img className={styles.person_card_image} src="Adnane4.jpeg"/>
                 </div>
